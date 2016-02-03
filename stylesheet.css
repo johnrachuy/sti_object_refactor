@@ -1,0 +1,37 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.color {
+	color: #f60;
+}
+
+.weight {
+	font-weight: lighter;
+}
+
+li {
+	font-size: 30px;
+	margin-right: 40px;
+}
+
+li:hover {
+	color: #f60;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+}
